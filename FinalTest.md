@@ -14,7 +14,7 @@
     - Hành vi:
       - AddPatient(), UpdatePatient(), RetrievePatient(), DeletePatient()
      
-      !
+      ![]
 
  2. Phần tử quản lý lịch hẹn (Appointment Management Element)
   - Chức năng:
