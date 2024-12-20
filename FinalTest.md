@@ -70,3 +70,39 @@
       - AuthenticateUser(), AssignRole(), LogAccess().
 - Biểu đồ PlantText  
       ![Diagram](https://www.planttext.com/plantuml/png/B8r12i8m44NtESKiMsWlK4HQr8LGGImU8CHf7KYca9aifFHaBZoILv2sRX__l_TzVsfH6pK5Rvot8j2XIv7q1PC10BWBnlEnWauZyR2Ys-YnWXEd01CqZq1SmC4JaxE-Kzlt1Lmism4ZpElXYZ6G28qi5RGakjjiUmDGbkkaIVf4Ld9MSKbc-OP5QE0b-0VjE3JEeKYMczdKo8yK_0y00F__0m00)
+
+### Chú thích nguồn tham khảo
+  1. Phần tử dữ liệu bệnh nhân (Patient Data Element)
+ - Mentcare Requirements Document (trang 3-10): Chi tiết các thông tin quản lý hồ sơ bệnh nhân như dữ liệu cá nhân, lịch sử chẩn đoán, và thuốc đã kê
+ - Software Engineering: Ian Sommerville (Tenth Edition): Phân tích thiết kế dữ liệu trong hệ thống y tế
+   - (https://github.com/opendesigncasestudies/Mentcare---IanSommerville)
+   - (https://software-engineering-book.com/case-studies/mentcare/)
+
+  2. Phần tử quản lý lịch hẹn (Appointment Management Element)
+ - Mentcare Requirements Document (trang 11): Đồng bộ hóa và theo dõi lịch hẹn từ hệ thống APPOINTMENTS
+ - Phân tích từ các bài nghiên cứu thực tế về tích hợp lịch và quản lý thời gian trong phần mềm y tế​
+   - (https://fossvjcet.github.io/CS-S5/CST309%20-%20Management%20of%20Software%20Systems/Other%20Notes/Module%202.2.pdf)
+   -  (https://software-engineering-book.com/case-studies/mentcare/)
+
+  3. Phần tử quản lý cảnh báo nguy cơ (Risk Alert Element)
+ - Mentcare Requirements Document (trang 10-12, 15-17): Mô tả các yêu cầu cảnh báo nguy cơ liên quan đến hành vi tự hại hoặc gây hại​
+ - Software Engineering: Ian Sommerville: Đưa ra các khái niệm thiết kế về hệ thống cảnh báo trong phần mềm an toàn
+   - (https://github.com/opendesigncasestudies/Mentcare-IanSommerville)
+   -  (https://www.slideshare.net/slideshow/se-chapter-4-software-requirementspptx/266205338)
+
+  4. Phần tử quản lý báo cáo (Report Management Element)
+ - Mentcare Requirements Document (trang 12-14): Chi tiết các yêu cầu về tạo và lưu trữ báo cáo, đặc biệt là báo cáo ẩn danh​
+ - Tài liệu về báo cáo y tế và bảo mật thông tin từ các nghiên cứu liên quan​
+   - (https://github.com/opendesigncasestudies/Mentcare-IanSommerville)
+   -  (https://fossvjcet.github.io/CS-S5/CST309%20-%20Management%20of%20Software%20Systems/Other%20Notes/Module%202.2.pdf)
+
+  5. Phần tử bảo mật và quyền riêng tư (Security and Privacy Element)
+ - Mentcare Requirements Document (trang 16-19): Yêu cầu bảo mật và phân quyền người dùng trong hệ thống​
+ - Phân tích thiết kế hệ thống bảo mật trong tài liệu Ian Sommerville và các ví dụ tiêu chuẩn ngành​
+   - (https://software-engineering-book.com/case-studies/mentcare/)
+   -  (https://www.slideshare.net/slideshow/se-chapter-4-software-requirementspptx/266205338)
+
+* Software Engineering, Ian Sommerville: Nguồn thông tin lý thuyết về kỹ thuật phần mềm, bao gồm phân tích và thiết kế hệ thống thực tế.
+* Bài nghiên cứu và thực hành từ FossVCET và SlideShare: Phân tích yêu cầu và thiết kế liên quan đến các hệ thống y tế
+  - (https://fossvjcet.github.io/CS-S5/CST309%20-%20Management%20of%20Software%20Systems/Other%20Notes/Module%202.2.pdf)
+  - (https://www.slideshare.net/slideshow/se-chapter-4-software-requirementspptx/266205338)
