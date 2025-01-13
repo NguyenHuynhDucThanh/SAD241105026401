@@ -14,7 +14,7 @@
     - Hành vi:
       - AddPatient(), UpdatePatient(), RetrievePatient(), DeletePatient()
    - Biểu đồ PlantText  
-      ![Diagram](https://www.planttext.com/plantuml/png/NCv12i9030NGVKynIrtq0aMaOXSMf8ZY0K8dbi1qfYIf8EB9N7Waho1MAnsNUVdm__F-o4M1jMzTKZiGCJjGGg_ccXXZngiiCdDG9jyCMa6B4QoiPHI9R1syGgsbFuN82uB61o7Pa6ZWIsQs9BhuyV9Jp2WrKwSKV1oSVjxPD1qdVCVEvWCSEmkAiUrHcV3yfmKwd2PlIOxUzgrx0G00__y30000)
+      ![Diagram](https://www.planttext.com/plantuml/png/NCv12i9030NGVKynIrtq0aMa2nSMN1GyGPY99J3Db2GLH3oP2u_a5SJMGiTbNZxy_tw-QZKG6_jO-0YghWKZP7FtmZddXlbgGkNE9iJTf0mzPW0X2AfcvXCRU6luaZ8F11qd9JsIMf9RvKwajZiil9-B1TKB3KQ9ys2x-dopPRbC-4tVR2SOXm26kGcQ45x_D634TV9HrCXXxEC7003__mC0)
 
  2. Phần tử quản lý lịch hẹn (Appointment Management Element)
   - Chức năng:
@@ -28,7 +28,7 @@
     - Hành vi:
       - SyncAppointments(), TrackMissedAppointments(), RescheduleAppointment().
  - Biểu đồ PlanText  
-      ![Diagram](https://www.planttext.com/plantuml/png/UhzxlqDnIM9HIMbk3bToJc9niO9ZGK5-Pbv9RcfUYK8rbuA20hA8fukLGd19KMPUEbWc8B4a4rFK9R4aDIGpDzKApW8B1vSabfGM8wdKrOM8L-Ob8rbHhA495WufIapEziqiBavDmI8Rb5gSd96QKfgJYYIfeSbLo-MGcfTIcfi30000__y30000)
+      ![Diagram](https://www.planttext.com/plantuml/png/RCqn2a8n3CRnlQV8-DxmBl2c9xWuEEa5GXCqsDRIf8E89tFmI5v1g885tSBl_q6UzyUYXiLg3Cu7L8LLpcT95ZaPN1q007vbGpFih4Wwj9BHv5S9ZVSIUORrvsgiXbQrMqxJso_9Tqzr61jRGN_QYYhJdrfO_P6f1kxYCBgRMpXHZU45003__mC0)
 
 3. Phần tử quản lý cảnh báo nguy cơ (Risk Alert Element)
  - Chức năng:
@@ -42,7 +42,7 @@
     - Hành vi:
       - MonitorRisk(), SendRiskNotification().
  - Biểu đồ PlantText  
-      ![Diagram](https://www.planttext.com/plantuml/png/N8n12i8m44NtESKiMsWlq5M52Wfj4Nk2q8vrC9b0Cj55wSbSU2Il8Cr2nELx__7VprSTH7k9rgZHw13WJE6sC-W55WK0YOzD1ODuuZcfanP2bZ-xXItUqLImvsXXWTOz2kXmecWBED1yXVLRDYYQJFXvACiqTev9dD-QB4zcG9usx9tGXKOjv3ZBrQfgv2bQym400F__0m00)
+      ![Diagram](https://www.planttext.com/plantuml/png/N8un2eD044NxFSMK2de1AmDA53I1X91wqKqOt9sLdJ6DUB8KELAk4BG88UL___7vx-ShPz519cTLPpKpd927dJL1O5O0005vgFiCpXAGxXiQjQ0X-QEhs9Y7iHcKD3cOeJbU4sZBehwq2LJrleBbQnP6D5h-MKZJhNIUK7nORqJnHjXGlyQ35xnXfmKzHR5QL6wedvpz0000__y30000)
 
 4. Phần tử quản lý báo cáo (Report Management Element)
  - Chức năng:
@@ -56,7 +56,7 @@
   - Hành vi:
     - GenerateReport(), SaveReport(), ExportReport().
 - Biểu đồ PlantText  
-    ![Diagram](https://www.planttext.com/plantuml/png/L8qn3e9054JxFSKlDP4BKA52Z8MDS84VcH0IzaEMlqOadCp28ta5uqgCbE_DPERrU2QzibDl6tDfkE_fZAvrIgCXeXcEQKovkbggFraC7MBAn5iQwSJ25In4DxILLWPRtr7I5Ffx1rQKks6nah9YJk80HMrXYA8en0S872k-Pwjra3bVboAxVU2d9fD0Ic-RDm000F__0m00)
+    ![Diagram](https://www.planttext.com/plantuml/png/L8v12e9068NtSugtBCWBkD9oY1PEK6vgDpW_8kWaCx-HY2ThqP6wGZH2vF9zt-FntizNubaxxjj6b8ts7YVgReun2W1m8HnCZ3ExsbP_i1WwYY5jts94dgfqBtEfYWrITLIN_72L6QRGBnrf9hCT5Yj6C-rc4oFJJ4NTaW2YAEYAB3dDDDzPhGFq-hu4zFY67vf4GjRqRVC1003__mC0)
 
 5. Phần tử bảo mật và quyền riêng tư (Security and Privacy Element)
   - Chức năng:
@@ -69,7 +69,7 @@
     - Hành vi:
       - AuthenticateUser(), AssignRole(), LogAccess().
 - Biểu đồ PlantText  
-      ![Diagram](https://www.planttext.com/plantuml/png/B8r12i8m44NtESKiMsWlK4HQr8LGGImU8CHf7KYca9aifFHaBZoILv2sRX__l_TzVsfH6pK5Rvot8j2XIv7q1PC10BWBnlEnWauZyR2Ys-YnWXEd01CqZq1SmC4JaxE-Kzlt1Lmism4ZpElXYZ6G28qi5RGakjjiUmDGbkkaIVf4Ld9MSKbc-OP5QE0b-0VjE3JEeKYMczdKo8yK_0y00F__0m00)
+      ![Diagram](https://www.planttext.com/plantuml/png/BCnB2eCm58NXULPnXmgw0Id5uAC4r86s2v3qOWDvbDnaKCILTT0bTGi5xVJZF-Vx_fGKPX-YqKpgcGWcbD6hy8AL0G14GY_g0gRWbLrsyavZ0OsD1bRWTI-63AfE3ABYtNJbRPj1pmT-QKROzi4JlL54obage5CKJiVRcG7a-PxCCJpG1YNdW3T2dwG74wd5ZaxZ7xHRk9H8bAHiOoNQUpJw1m00__y30000)
 
 ### Chú thích nguồn tham khảo
   1. Phần tử dữ liệu bệnh nhân (Patient Data Element)
